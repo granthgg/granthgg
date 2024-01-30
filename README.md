@@ -5,7 +5,6 @@
 - 📫 You can connect me on Linkdin @Granth Gaurav
 
 ## :hammer_and_wrench: Languages and Tools :
- ------------------------
 
 
 
