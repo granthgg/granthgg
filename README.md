@@ -2,7 +2,7 @@
  ------------------------
 - 👀 I’m interested in Machine Learing, Deep Learning and Neural Network
 - 🌱 I’m currently pursuing my Bachelors Degree in Computer Science
-- 📫 You can connect me on Linkdin @Granth Gaurav
+- 📫 You can connect me on LinkedIn @Granth Gaurav
 
 ## :hammer_and_wrench: Languages and Tools
 <div>
