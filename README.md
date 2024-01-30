@@ -7,9 +7,7 @@
 
 ## 📊 My GitHub Stats
 
-!Top Langs
-
-!Your Repository's Stats
+! [YOURNAME github stats] ([8](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true%29)
 
 
 <!---
