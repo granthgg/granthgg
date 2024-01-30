@@ -7,7 +7,7 @@
 
 ## 📊 My GitHub Stats
 
-! [granthgg github stats] ([8](https://github-readme-stats.vercel.app/api?username=granthgg&show_icons=true&hide_border=true%29)
+! [YOURNAME github stats] ([8](https://github-readme-stats.vercel.app/api?username=granthgg&show_icons=true&hide_border=true%29)
 
 
 <!---
