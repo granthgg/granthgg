@@ -1,5 +1,7 @@
 😉 Hi, I’m Granth Gaurav
  ------------------------
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ariel&pause=1000&color=F7783C&random=false&width=435&lines=Aspiring+Data+Scientist)](https://git.io/typing-svg)
+
 - 👀 I’m interested in Machine Learing, Deep Learning and Neural Network
 - 🌱 I’m currently pursuing my Bachelors Degree in Computer Science
 - 📫 You can connect me on LinkedIn @Granth Gaurav
