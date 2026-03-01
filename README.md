@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=fira+sans&weight=900&size=28&pause=1000&color=F7783C&random=false&width=435&lines=Data+Scientist;Tech+Enthusiast)](https://git.io/typing-svg)
 
 
-- 👀 I’m an AI geek who loves Machine Learning, Deep Learning, Neural Network, GenAI.
-- 🌱 I’m a Data Scientist at Navikenz.
+- 👀 An AI geek who loves Machine Learning, Deep Learning, Neural Network, GenAI.
+- 🌱 Data Scientist at Navikenz.
 - 📫 You can connect me on LinkedIn @Granth Gaurav
 
 ## :hammer_and_wrench: Languages and Tools
